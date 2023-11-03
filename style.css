@@ -1,0 +1,53 @@
+nav {
+    text-align: center;
+    display: flex;
+    justify-content: right;
+    letter-spacing: 1px;
+}
+nav h3 {
+    display: inline-block;
+}
+nav h3 a {
+    text-decoration: none;
+    color: black;
+    margin: 5px;
+}
+.logofull {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 110px;
+    width: 450px;   
+    height: auto;
+}
+.dots {
+    margin-top: 12px;
+    width: 35px;
+    height: 35px;
+}
+.search{
+    /* display: block;
+    margin-left: 540px; 
+    margin-right: auto;
+    margin-top: 2%;
+    width: 450px;
+    height: 35px;
+    border-radius: 25px;  */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 400px;
+    height: 30px;
+    
+}
+.left {
+    margin: 7px;
+}
+.right  {
+    margin: 7px;
+    
+}
